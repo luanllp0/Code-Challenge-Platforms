@@ -1,0 +1,2 @@
+Para o Beecrowd julgar sua submissão, é necessário que a classe principal tenha nome "main", entretanto nessa pasta, todos os arquivos têm como nome o main seguido do número do problema, para organização.
+ Lembre de sempre nomear apenas como main, para não obter erros como resultado.
